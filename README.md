@@ -1,2 +1,1 @@
-# Godson-Matemu-Portfolio
-Data Science/Analyst Portflio
+# Lasiandra Finance Inc (LFI) Loan approval process using SAS program
